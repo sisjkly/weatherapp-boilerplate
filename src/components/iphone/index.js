@@ -1,4 +1,4 @@
-// import preact
+// import preact ggboy
 import { h, render, Component } from 'preact';
 // import stylesheets for ipad & button
 import style from './style';
